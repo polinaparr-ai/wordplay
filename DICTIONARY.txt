@@ -1,0 +1,11 @@
+ENABLE1 word list, compiled by Alan Beale and M. Leo Cooper. Public domain.
+Source: https://raw.githubusercontent.com/dolph/dictionary/master/enable1.txt
+Authors public-domain release: https://github.com/BartMassey/wordlists/blob/main/README-enable2k.txt
+Retrieved: 2026-10-23
+Source SHA-256: 3f16130220645692ed49c7134e24a18504c2ca55b3c012f7290e3e77c63b1a89
+Bundled entries: 168551 (2–15 letters, uppercased and deduplicated).
+ENABLE is not an official Collins or NASPA tournament dictionary.
+
+Verified additions (2026-10-23): PERV, PERVS.
+Checked against https://scrabble.merriam.com/finder/perv and https://scrabble.merriam.com/finder/pervs
+Total bundled entries with additions: 168553.
